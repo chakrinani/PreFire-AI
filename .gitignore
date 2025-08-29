@@ -1,15 +1,6 @@
-﻿# OS
-.DS_Store
-
-# Node
-node_modules/
-npm-debug.log*
-
-# Env & secrets
+﻿node_modules/
 .env
 server/.env
 client/.env
-
-# Builds
 client/build/
-server/logs/
+.DS_Store
